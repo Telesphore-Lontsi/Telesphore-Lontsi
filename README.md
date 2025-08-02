@@ -26,7 +26,7 @@ This portfolio serves as a living showcase of my ongoing commitment to staying c
     <tr style="background-color: #ffffff;">
       <td style="padding: 10px; border-bottom: 1px solid #e5e7eb;"><strong>Security Lab Setup Implementation</strong></td>
       <td style="padding: 10px; border-bottom: 1px solid #e5e7eb;">
-        <a href="https://google.com" target="_blank" style="color: #3b82f6; text-decoration: none;">SecLab Setup</a>
+        <a href="https://github.com/Telesphore-Lontsi/Eutopia" target="_blank" style="color: #3b82f6; text-decoration: none;">SecLab Setup</a>
       </td>
     </tr>
     <!-- Add more rows as needed -->
