@@ -6,26 +6,30 @@
 
 
 
-Cybersecurity enthusiast with a Computer Science degree, 4+ years of experience, and a focus on SOC analysis and cloud security.
+💼 Cybersecurity Analyst with a Bachelor's in Computer Science and over 4 years of hands-on experience in threat detection, incident response, SIEM analysis, and cloud security.
 
 ## Objective
 
-Detail-oriented Cybersecurity Analyst with a Bachelor's in Computer Science, and hands-on skills in threat detection, incident response, and cloud security—driven to protect digital assets and continuously evolve in fast-paced security environments.
+This portfolio serves as a living showcase of my ongoing commitment to staying current with vulnerabilities, emerging attack techniques, and modern defense strategies. I continuously build, test, and document real-world SOC scenarios to sharpen my skills and contribute to the cybersecurity community.
 
-## Skills
 
-<table>
-  <thead>
+<h2>🛠️ Skills & Labs</h2>
+
+<table style="width:100%; border-collapse: collapse;">
+  <thead style="background-color: #f3f4f6;">
     <tr>
-      <th>🔧 Skill</th>
-      <th>🧪 Hands-On Project</th>
+      <th style="padding: 12px; text-align: left; border-bottom: 2px solid #e5e7eb;">🔧 Skill</th>
+      <th style="padding: 12px; text-align: left; border-bottom: 2px solid #e5e7eb;">🧪 Hands-On Lab</th>
     </tr>
   </thead>
   <tbody>
-    <tr>
-      <td><strong>Security Lab setup implementation</strong></td>
-      <td><a href="https://google.com" target="_blank">SecLab Setup</a></td>
+    <tr style="background-color: #ffffff;">
+      <td style="padding: 10px; border-bottom: 1px solid #e5e7eb;"><strong>Security Lab Setup Implementation</strong></td>
+      <td style="padding: 10px; border-bottom: 1px solid #e5e7eb;">
+        <a href="https://google.com" target="_blank" style="color: #3b82f6; text-decoration: none;">SecLab Setup</a>
+      </td>
     </tr>
+    <!-- Add more rows as needed -->
   </tbody>
 </table>
 
